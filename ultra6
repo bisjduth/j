@@ -512,7 +512,7 @@ about:Button("doors较弱(由ajcg提供)",function()
 loadstring(game:HttpGet"https://raw.githubusercontent.com/Laelmano24/Rael-Hub/main/main.txt")()
 end)
 
-local UITab14 = win:Tab("最强战场",'7734068321')
+local UITab15 = win:Tab("最强战场",'7734068321')
 
 local about = UITab15:section("最强战场",true)
 
