@@ -508,6 +508,18 @@ about:Button("doors还行(由ajcg提供)",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamNullFire/NullFire/main/loader.lua"))()
 end)
 
+about:Button("doors较弱(由ajcg提供)",function()
+loadstring(game:HttpGet"https://raw.githubusercontent.com/Laelmano24/Rael-Hub/main/main.txt")()
+end)
+
+local UITab14 = win:Tab("最强战场",'7734068321')
+
+local about = UITab15:section("最强战场",true)
+
+about:Button("无限侧闪",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/10tempest01/tempest-hub/refs/heads/main/Launcher.lua"))()
+end)
+
 local UITab15 = win:Tab("压力",'7734068321')
 
 local about = UITab15:section("压力",true)
