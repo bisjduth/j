@@ -496,6 +496,14 @@ about:Button("墨水游戏",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ScripterVaz/InkGameAzure/main/Protected_7974105512464815.lua.txt"))()
 end)
 
+local UITab13 = win:Tab("『doors』",'7734068321')
+
+local about = UITab13:section("doors",true)
+
+about:Button("doors",function()
+loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\112\97\115\116\101\98\105\110\46\99\111\109\47\114\97\119\47\54\53\84\119\84\56\106\97"))()
+end)
+
 local UITab15 = win:Tab("压力",'7734068321')
 
 local about = UITab15:section("压力",true)
