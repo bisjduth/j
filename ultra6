@@ -297,12 +297,8 @@ about:Button("飞车",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/bisjduth/j/main/fei1"))()
 end)
 
-about:Button("飞行v1",function()
-loadstring("\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\34\104\116\116\112\115\58\47\47\112\97\115\116\101\98\105\110\46\99\111\109\47\114\97\119\47\90\66\122\99\84\109\49\102\34\41\41\40\41\10")()
-end)
-
 about:Button("ultra飞行",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/odhdshhe/-V3.0/refs/heads/main/%E9%A3%9E%E8%A1%8C%E8%84%9A%E6%9C%ACV3(%E5%85%A8%E6%B8%B8%E6%88%8F%E9%80%9A%E7%94%A8)%20(1).txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bisjduth/j/main/fei3"))()
 end)
 
 about:Button("踏空行走",function()
@@ -329,9 +325,9 @@ about:Button("光影V4",function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/MZEEN2424/Graphics/main/Graphics.xml"))()
 end)
 
-local UITab99 = win:Tab("『FE』",'7734068321')
+local UITab99 = win:Tab("FE",'7734068321')
 
-local about = UITab99:section("『FE』",true)
+local about = UITab99:section("FE",true)
 
 about:Button("FE C00lgui", function()
 loadstring(game:GetObjects("rbxassetid://8127297852")[1].Source)()
@@ -364,18 +360,18 @@ about:Button("FE", function()
     loadstring(game:HttpGet('https://pastefy.ga/a7RTi4un/raw'))()
 end)
 
-local UITab4 = win:Tab("『力量传奇』",'3676609128')
+local UITab4 = win:Tab("力量传奇",'3676609128')
 
-local about = UITab4:section("『力量传奇』",true)
+local about = UITab4:section("力量传奇",true)
 
 about:Button("力量传奇(芙宁娜提供)",function()
 LnScript = "霖溺-免费版加载器"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ShenJiaoBen/ScriptLoader/refs/heads/main/Linni_FreeLoader.lua"))()
 end)
 
-local UITab5 = win:Tab("『忍者传奇』",'3676609128')
+local UITab5 = win:Tab("忍者传奇",'3676609128')
 
-local about = UITab5:section("『忍者传奇』",true)
+local about = UITab5:section("忍者传奇",true)
 
 about:Button("忍者传奇1",function()
 LnScript = "霖溺-免费版加载器"
@@ -386,18 +382,18 @@ about:Button("忍者传奇2",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/harisiskandar178/5repo/main/script4.lua"))()
 end)
 
-local UITab6 = win:Tab("『极速传奇』",'3676609128')
+local UITab6 = win:Tab("极速传奇",'3676609128')
 
-local about = UITab6:section("『极速传奇』",true)
+local about = UITab6:section("极速传奇",true)
 
 about:Button("极速传奇（ajcg提供）",function()
 LnScript = "霖溺-免费版加载器"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ShenJiaoBen/ScriptLoader/refs/heads/main/Linni_FreeLoader.lua"))()
 end)
 
-local UITab7 = win:Tab("『死亡球』",'3676609128')
+local UITab7 = win:Tab("死亡球",'3676609128')
 
-local about = UITab7:section("『死亡球』",true)
+local about = UITab7:section("死亡球",true)
 
 about:Button("死亡球1",function()
 loadstring(game:HttpGet("https://github.com/Hosvile/InfiniX/releases/latest/download/main.lua",true))()
@@ -407,9 +403,9 @@ about:Button("死亡球2",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/Ball1/main/Death"))()
 end)
 
-local UITab10 = win:Tab("『火箭发射模拟器』",'3676609128')
+local UITab10 = win:Tab("火箭发射模拟器",'3676609128')
 
-local about = UITab10:section("『火箭发射模拟器』",true)
+local about = UITab10:section("火箭发射模拟器",true)
 
 about:Toggle("自动收集燃料", "ARL", false, function(ARL)
     isFuelScoopEnabled = ARL while true do wait() if isFuelScoopEnabled then for i, h in pairs(game.Players.LocalPlayer.Character:GetChildren()) do if h:IsA("Tool") and h.Name == "FuelScoop" then h:Activate() end end end end
@@ -476,9 +472,9 @@ about:Button("火箭发射模拟器3",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/odhdshhe/jm-/refs/heads/main/jm%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E9%87%8D%E5%81%9A(1).lua"))()
 end)
 
-local UITab11 = win:Tab("『感染性微笑』",'7734068321')
+local UITab11 = win:Tab("感染性微笑",'7734068321')
 
-local about = UITab11:section("『感染性微笑』",true)
+local about = UITab11:section("感染性微笑",true)
 
 about:Button("感染性微笑1",function()
 loadstring(game:HttpGet("https://pastebin.com/raw/WG1BMS72",true))()
@@ -488,20 +484,24 @@ about:Button("感染性微笑2",function()
 loadstring(game:HttpGet(("https://pastebin.com/raw/mT10xnt7"), true))()
 end)
 
-local UITab12 = win:Tab("『墨水游戏』",'7734068321')
+local UITab12 = win:Tab("墨水游戏",'7734068321')
 
 local about = UITab12:section("墨水游戏",true)
 
-about:Button("墨水游戏",function()
+about:Button("墨水OP脚本",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ScripterVaz/InkGameAzure/main/Protected_7974105512464815.lua.txt"))()
 end)
 
-local UITab13 = win:Tab("『doors』",'7734068321')
+local UITab13 = win:Tab("doors",'7734068321')
 
 local about = UITab13:section("doors",true)
 
-about:Button("doors",function()
+about:Button("blackking",function()
 loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\112\97\115\116\101\98\105\110\46\99\111\109\47\114\97\119\47\54\53\84\119\84\56\106\97"))()
+end)
+
+about:Button("doors较强",function()
+loadstring(game:HttpGet("https://rawscripts.net/raw/FLOOR-2-DOORS-Sensation-V2-20105"))()
 end)
 
 local UITab15 = win:Tab("压力",'7734068321')
@@ -524,15 +524,23 @@ about:Button("超级好用  ᐅ这个是我认为最好用的ᐊ",function()
 loadstring(game:HttpGet("https://github.com/Drop56796/CreepyEyeHub/blob/main/obfuscate.lua?raw=true"))()
 end)
 
-local UITab16 = win:Tab("『骨折VI』",'7734068321')
-local about = UITab16:section("『骨折VI』",true)
+local UITab16 = win:Tab("骨折VI",'7734068321')
+local about = UITab16:section("骨折VI",true)
 
 about:Button("骨折VI  1",function()
 loadstring(game:HttpGet('https://pastebin.com/raw/5rEAVmcC'))()
 end)
 
-local UITab17 = win:Tab("『其他作者』",'3676609128')
-local about = UITab17:section("『其他作者』",true)
+local UITab17 = win:Tab("其他作者",'3676609128')
+local about = UITab17:section("其他作者",true)
+
+about:Button("青风脚本",function()
+loadstring(game:HttpGet(utf8.char((function() return table.unpack({104,116,116,112,115,58,47,47,112,97,115,116,101,98,105,110,46,99,111,109,47,114,97,119,47,116,53,87,75,53,72,48,72})end)())))("青风脚本")
+end)
+
+about:Button("忍脚本",function()
+loadstring(game:HttpGet(utf8.char((function() return table.unpack({104,116,116,112,115,58,47,47,112,97,115,116,101,98,105,110,46,99,111,109,47,114,97,119,47,52,81,74,109,75,50,99,72})end)())))()
+end)
 
 about:Button("陈脚本",function()
     loadstring(game:HttpGet("https://pastebin.com/raw/QxDD9SpW"))()
@@ -559,7 +567,7 @@ about:Button("老大脚本",function()
 end)
 
 about:Button("静新脚本",function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/jxdjbx/ggff/main/%E5%B8%85%E9%94%85%E4%B8%80%E6%9E%9A%E5%B0%8F%E5%8F%AF%E7%88%B1%E5%91%80%E5%8F%91%E8%B4%A7%E5%A5%BD%E7%9A%84%E5%90%83%E4%B8%8D%E5%90%83%E8%AE%B0%E5%BE%97%E8%AE%B0%E5%BE%97%E4%BD%A0%E6%96%B9%E4%BE%BF%E6%89%93%E5%BC%80%E7%94%B5%E8%84%91%E6%96%B9%E4%B8%8D%E6%96%B9%E4%BE%BF%E8%AE%B0%E5%BE%97%E9%83%BD%E8%A7%81%E4%B8%8D%E5%88%B0%E6%96%B9%E4%BE%BF%E7%9A%84%E8%AF%9D%E6%89%8B%E6%9C%BA%E6%96%B9%E4%B8%8D%E6%96%B9%E4%BE%BF%E5%B0%B1"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/jxdjbx/gggggghjjnbb/main/jdjdd"))()
 end)
 
 about:Button("小魔脚本",function()
