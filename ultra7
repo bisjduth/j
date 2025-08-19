@@ -416,6 +416,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ATrainz/Phantasm/refs
 end)
 
 local UITab9 = win:Tab("河北唐县",'7734068321')
+
 local about = UITab9:section("河北唐县",true)
 
 about:Button("冷脚本",function()
@@ -554,6 +555,7 @@ loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\114\97\119\46\103\105\116
 end)
 
 local UITab15 = win:Tab("战争大亨",'7734068321')
+
 local about = UITab15:section("战争大亨",true)
 
 about:Button("战争大亨1",function()
@@ -561,6 +563,7 @@ loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/fba7aeffae0253
 end)
 
 local UITab16 = win:Tab("俄亥俄州",'7734068321')
+
 local about = UITab16:section("俄亥俄州",true)
 
 about:Button("俄亥俄州1",function()
@@ -568,6 +571,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/canxiaoxue666/String/
 end)
 
 local UITab17 = win:Tab("其他作者",'3676609128')
+
 local about = UITab17:section("其他作者",true)
 
 about:Button("青风脚本",function()
