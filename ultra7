@@ -41,7 +41,7 @@ Heartbeat:Connect(HeartbeatUpdate)
 game:GetService("StarterGui"):SetCore("SendNotification",{ Title = "『ultra脚本』"; Text ="为您加载"; Duration = 4; })
 game:GetService("StarterGui"):SetCore("SendNotification",{ Title = "『ultra脚本』"; Text ="成功"; Duration = 4; })
 
-local ui = loadstring(game:HttpGet("https://raw.githubusercontent.com/dingding123hhh/djnd/refs/heads/main/%E5%86%B7444.txt"))();        
+local ui = loadstring(game:HttpGet("https://pastebin.com/ras3EHRs))();        
 local win = ui:new("ultra脚本")
 --
 local UITab1 = win:Tab("『信息』",'7734068321')
@@ -554,42 +554,42 @@ loadstring(game:HttpGet('https://pastebin.com/raw/5rEAVmcC'))()
 end)
 
 local UITab17 = win:Tab("河北唐县",'7734068321')
-local about = UITab16:section("河北唐县",true)
+local about = UITab17:section("河北唐县",true)
 
 about:Button("冷脚本",function()
 getgenv().Leng="冷脚本QQ群929220425" loadstring(game:HttpGet("https://raw.githubusercontent.com/odhdshhe/lenglenglenglenglenglenglenglenglenglenglenglenglenglenglenglenglenglenglenglengscriptcoldLBT-H/refs/heads/main/LENG%20script%20cold%20LBT-H.txt"))()
 end)
 
-local UITab16 = win:Tab("一路向西",'7734068321')
-local about = UITab16:section("一路向西",true)
+local UITab18 = win:Tab("一路向西",'7734068321')
+local about = UITab18:section("一路向西",true)
 
 about:Button("一路向西1",function()
 loadstring(game:HttpGet("https://gist.githubusercontent.com/Prohacking12/ac46591ae6546dca1e10a7b3a6847501/raw/6aa7d4b33c73a57b6a28bf296fb40dcdeee052b9/gistfile1.txt", true))()
 end)
 
-local UITab16 = win:Tab("死铁轨",'7734068321')
-local about = UITab16:section("死铁轨",true)
+local UITab19 = win:Tab("死铁轨",'7734068321')
+local about = UITab19:section("死铁轨",true)
 
 about:Button("死铁轨1",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/thaibao/refs/heads/main/TbaoHubDeadRails"))()
 end)
 
-local UITab16 = win:Tab("战争大亨",'7734068321')
-local about = UITab16:section("战争大亨",true)
+local UITab20 = win:Tab("战争大亨",'7734068321')
+local about = UITab20:section("战争大亨",true)
 
 about:Button("战争大亨1",function()
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/fba7aeffae0253b8860a9dda57f80318.lua"))()
 end)
 
-local UITab16 = win:Tab("俄亥俄州",'7734068321')
-local about = UITab16:section("俄亥俄州",true)
+local UITab21 = win:Tab("俄亥俄州",'7734068321')
+local about = UITab21:section("俄亥俄州",true)
 
 about:Button("俄亥俄州1",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/canxiaoxue666/String/refs/heads/main/OhioScript"))()
 end)
 
-local UITab17 = win:Tab("其他作者",'3676609128')
-local about = UITab17:section("其他作者",true)
+local UITab22 = win:Tab("其他作者",'3676609128')
+local about = UITab22:section("其他作者",true)
 
 about:Button("青风脚本",function()
 loadstring(game:HttpGet(utf8.char((function() return table.unpack({104,116,116,112,115,58,47,47,112,97,115,116,101,98,105,110,46,99,111,109,47,114,97,119,47,116,53,87,75,53,72,48,72})end)())))("青风脚本")
