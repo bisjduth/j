@@ -567,22 +567,22 @@ about:Button("死铁轨1",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/thaibao/refs/heads/main/TbaoHubDeadRails"))()
 end)
 
-local UITab17 = win:Tab("战争大亨",'7734068321')
-local about = UITab17:section("战争大亨",true)
+local UITab16 = win:Tab("战争大亨",'7734068321')
+local about = UITab16:section("战争大亨",true)
 
 about:Button("战争大亨1",function()
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/fba7aeffae0253b8860a9dda57f80318.lua"))()
 end)
 
-local UITab18 = win:Tab("俄亥俄州",'7734068321')
-local about = UITab18:section("俄亥俄州",true)
+local UITab16 = win:Tab("俄亥俄州",'7734068321')
+local about = UITab16:section("俄亥俄州",true)
 
 about:Button("俄亥俄州1",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/canxiaoxue666/String/refs/heads/main/OhioScript"))()
 end)
 
-local UITab19 = win:Tab("其他作者",'3676609128')
-local about = UITab19:section("其他作者",true)
+local UITab17 = win:Tab("其他作者",'3676609128')
+local about = UITab17:section("其他作者",true)
 
 about:Button("青风脚本",function()
 loadstring(game:HttpGet(utf8.char((function() return table.unpack({104,116,116,112,115,58,47,47,112,97,115,116,101,98,105,110,46,99,111,109,47,114,97,119,47,116,53,87,75,53,72,48,72})end)())))("青风脚本")
