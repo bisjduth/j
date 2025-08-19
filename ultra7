@@ -560,35 +560,35 @@ about:Button("冷脚本",function()
 getgenv().Leng="冷脚本QQ群929220425" loadstring(game:HttpGet("https://raw.githubusercontent.com/odhdshhe/lenglenglenglenglenglenglenglenglenglenglenglenglenglenglenglenglenglenglenglengscriptcoldLBT-H/refs/heads/main/LENG%20script%20cold%20LBT-H.txt"))()
 end)
 
-local UITab18 = win:Tab("一路向西",'7734068321')
+local UITab16 = win:Tab("一路向西",'7734068321')
 local about = UITab16:section("一路向西",true)
 
 about:Button("一路向西1",function()
 loadstring(game:HttpGet("https://gist.githubusercontent.com/Prohacking12/ac46591ae6546dca1e10a7b3a6847501/raw/6aa7d4b33c73a57b6a28bf296fb40dcdeee052b9/gistfile1.txt", true))()
 end)
 
-local UITab19 = win:Tab("死铁轨",'7734068321')
+local UITab16 = win:Tab("死铁轨",'7734068321')
 local about = UITab16:section("死铁轨",true)
 
 about:Button("死铁轨1",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/thaibao/refs/heads/main/TbaoHubDeadRails"))()
 end)
 
-local UITab20 = win:Tab("战争大亨",'7734068321')
+local UITab16 = win:Tab("战争大亨",'7734068321')
 local about = UITab16:section("战争大亨",true)
 
 about:Button("战争大亨1",function()
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/fba7aeffae0253b8860a9dda57f80318.lua"))()
 end)
 
-local UITab21 = win:Tab("俄亥俄州",'7734068321')
+local UITab16 = win:Tab("俄亥俄州",'7734068321')
 local about = UITab16:section("俄亥俄州",true)
 
 about:Button("俄亥俄州1",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/canxiaoxue666/String/refs/heads/main/OhioScript"))()
 end)
 
-local UITab22 = win:Tab("其他作者",'3676609128')
+local UITab17 = win:Tab("其他作者",'3676609128')
 local about = UITab17:section("其他作者",true)
 
 about:Button("青风脚本",function()
