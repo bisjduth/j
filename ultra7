@@ -541,17 +541,17 @@ loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\114\97\119\46\103\105\116
 end)
 
 about:Button("pressure",function()
-loadstring(request(C"Url"]="https://
+ loadstring(request(C"Url"]="https://
 raw.githubusercontent.com/9kn-1/preeorrr/
 main/pressure.luau')).Body))
 end)
 
 about:Button("jm压力",function()
-getgenv().lishichuan="1001390385" loadstring(game:HttpGet("https://pastebin.com/raw/iZuasZCc"))()
+ getgenv().lishichuan="1001390385" loadstring(game:HttpGet("https://pastebin.com/raw/iZuasZCc"))()
 end)
 
 about:Button("人机",function()
-loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\114\97\119\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\67\104\105\110\97\81\89\47\83\99\114\105\112\116\115\47\77\97\105\110\47\80\114\101\115\115\117\114\101"))()
+ loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\114\97\119\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\67\104\105\110\97\81\89\47\83\99\114\105\112\116\115\47\77\97\105\110\47\80\114\101\115\115\117\114\101"))()
 end)
 
 local UITab15 = win:Tab("战争大亨",'7734068321')
@@ -559,7 +559,7 @@ local UITab15 = win:Tab("战争大亨",'7734068321')
 local about = UITab15:section("战争大亨",true)
 
 about:Button("战争大亨1",function()
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/fba7aeffae0253b8860a9dda57f80318.lua"))()
+ loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/fba7aeffae0253b8860a9dda57f80318.lua"))()
 end)
 
 local UITab16 = win:Tab("俄亥俄州",'7734068321')
@@ -567,7 +567,7 @@ local UITab16 = win:Tab("俄亥俄州",'7734068321')
 local about = UITab16:section("俄亥俄州",true)
 
 about:Button("俄亥俄州1",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/canxiaoxue666/String/refs/heads/main/OhioScript"))()
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/canxiaoxue666/String/refs/heads/main/OhioScript"))()
 end)
 
 local UITab17 = win:Tab("其他作者",'3676609128')
