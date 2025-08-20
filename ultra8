@@ -360,7 +360,7 @@ about:Button("死亡球2",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/Ball1/main/Death"))()
 end)
 
-local UITab10 = win:Tab("火箭发射模拟器",'3676609128')
+local UITab8 = win:Tab("火箭发射模拟器",'3676609128')
 
 local about = UITab10:section("火箭发射模拟器",true)
 
@@ -429,7 +429,7 @@ about:Button("火箭发射模拟器3",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/odhdshhe/jm-/refs/heads/main/jm%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E9%87%8D%E5%81%9A(1).lua"))()
 end)
 
-local UITab11 = win:Tab("感染性微笑",'7734068321')
+local UITab9 = win:Tab("感染性微笑",'7734068321')
 
 local about = UITab11:section("感染性微笑",true)
 
@@ -441,7 +441,7 @@ about:Button("感染性微笑2",function()
 loadstring(game:HttpGet(("https://pastebin.com/raw/mT10xnt7"), true))()
 end)
 
-local UITab12 = win:Tab("墨水游戏",'7734068321')
+local UITab10 = win:Tab("墨水游戏",'7734068321')
 
 local about = UITab12:section("墨水游戏",true)
 
@@ -449,7 +449,7 @@ about:Button("墨水OP脚本",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ScripterVaz/InkGameAzure/main/Protected_7974105512464815.lua.txt"))()
 end)
 
-local UITab13 = win:Tab("doors",'7734068321')
+local UITab11 = win:Tab("doors",'7734068321')
 
 local about = UITab13:section("doors",true)
 
@@ -469,7 +469,7 @@ about:Button("doors较弱(由ajcg提供)",function()
 loadstring(game:HttpGet"https://raw.githubusercontent.com/Laelmano24/Rael-Hub/main/main.txt")()
 end)
 
-local UITab15 = win:Tab("最强战场",'7734068321')
+local UITab12 = win:Tab("最强战场",'7734068321')
 
 local about = UITab15:section("最强战场",true)
 
@@ -477,34 +477,82 @@ about:Button("无限侧闪",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/10tempest01/tempest-hub/refs/heads/main/Launcher.lua"))()
 end)
 
-local UITab15 = win:Tab("压力",'7734068321')
+about:Button("有点厉害",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ATrainz/Phantasm/refs/heads/main/Games/TSB.lua"))()
+end)
+
+local UITab13 = win:Tab("压力",'7734068321')
 
 local about = UITab15:section("压力",true)
 
-about:Button("无敌 『有用』 ",function()
-loadstring(game:HttpGet("https://rawscripts.net/raw/Pressure-*-Mode-15992"))()
+about:Button("应该挺厉害(没试过)",function()
+loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\114\97\119\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\67\104\105\110\97\81\89\47\83\99\114\105\112\116\115\47\77\97\105\110\47\83\99\114\105\112\116"))()
 end)
 
-about:Button("DX",function()
-loadstring(game:HttpGet(('https://github.com/DocYogurt/Main/raw/main/Scripts/Pressure')))()
+about:Button("pressure",function()
+loadstring(request(C"Url"]="https://
+raw.githubusercontent.com/9kn-1/preeorrr/
+main/pressure.luau')).Body))
 end)
 
-about:Button("要卡密",function()
-loadstring(game:HttpGet(('https://pastefy.app/o6LTiEBy/raw'),true))()
+about:Button("jm压力",function()
+getgenv().lishichuan="1001390385" loadstring(game:HttpGet("https://pastebin.com/raw/iZuasZCc"))()
 end)
 
-about:Button("超级好用  ᐅ这个是我认为最好用的ᐊ",function()
-loadstring(game:HttpGet("https://github.com/Drop56796/CreepyEyeHub/blob/main/obfuscate.lua?raw=true"))()
+about:Button("人机",function()
+loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\114\97\119\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\67\104\105\110\97\81\89\47\83\99\114\105\112\116\115\47\77\97\105\110\47\80\114\101\115\115\117\114\101"))()
 end)
 
-local UITab16 = win:Tab("骨折VI",'7734068321')
+local UITab14 = win:Tab("骨折VI",'7734068321')
+
 local about = UITab16:section("骨折VI",true)
 
 about:Button("骨折VI  1",function()
 loadstring(game:HttpGet('https://pastebin.com/raw/5rEAVmcC'))()
 end)
 
-local UITab17 = win:Tab("其他作者",'3676609128')
+local UITab15 = win:Tab("河北唐县",'7734068321')
+
+local about = UITab16:section("河北唐县",true)
+
+about:Button("冷脚本",function()
+getgenv().Leng="冷脚本QQ群929220425" loadstring(game:HttpGet("https://raw.githubusercontent.com/odhdshhe/lenglenglenglenglenglenglenglenglenglenglenglenglenglenglenglenglenglenglenglengscriptcoldLBT-H/refs/heads/main/LENG%20script%20cold%20LBT-H.txt"))()
+end)
+
+local UITab16 = win:Tab("一路向西",'7734068321')
+
+local about = UITab16:section("一路向西",true)
+
+about:Button("一路向西1",function()
+loadstring(game:HttpGet("https://gist.githubusercontent.com/Prohacking12/ac46591ae6546dca1e10a7b3a6847501/raw/6aa7d4b33c73a57b6a28bf296fb40dcdeee052b9/gistfile1.txt", true))()
+end)
+
+local UITab17 = win:Tab("死铁轨",'7734068321')
+
+local about = UITab16:section("死铁轨",true)
+
+about:Button("死铁轨1",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/thaibao/refs/heads/main/TbaoHubDeadRails"))()
+end)
+
+local UITab18 = win:Tab("战争大亨",'7734068321')
+
+local about = UITab16:section("战争大亨",true)
+
+about:Button("战争大亨1",function()
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/fba7aeffae0253b8860a9dda57f80318.lua"))()
+end)
+
+local UITab19 = win:Tab("俄亥俄州",'7734068321')
+
+local about = UITab16:section("俄亥俄州",true)
+
+about:Button("俄亥俄州1",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/canxiaoxue666/String/refs/heads/main/OhioScript"))()
+end)
+
+local UITab20 = win:Tab("其他作者",'3676609128')
+
 local about = UITab17:section("其他作者",true)
 
 about:Button("青风脚本",function()
