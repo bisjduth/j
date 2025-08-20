@@ -1,3 +1,4 @@
+local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/shlexware/Orion/main/source"))()
 local LBLG = Instance.new("ScreenGui", getParent)
 local LBL = Instance.new("TextLabel", getParent)
 local player = game.Players.LocalPlayer
@@ -47,7 +48,7 @@ end
 Start = tick()
 Heartbeat:Connect(HeartbeatUpdate)
 
-local ui = loadstring(game:HttpGet("https://raw.githubusercontent.com/dingding123hhh/djnd/refs/heads/main/%E5%86%B7444.txt"))();        
+local ui = loadstring(game:HttpGet("https://pastebin.com/ras3EHRs"))();        
 local win = ui:new("ultra脚本")
 --
 local UITab1 = win:Tab("『信息』",'7734068321')
