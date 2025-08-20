@@ -526,22 +526,6 @@ about:Button("无限侧闪",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/10tempest01/tempest-hub/refs/heads/main/Launcher.lua"))()
 end)
 
-local UITab15 = win:Tab("压力",'7734068321')
-
-local about = UITab15:section("压力",true)
-
-about:Button("应该挺厉害",function()
-loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\114\97\119\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\67\104\105\110\97\81\89\47\83\99\114\105\112\116\115\47\77\97\105\110\47\83\99\114\105\112\116"))()
-end)
-
-about:Button("jm压力",function()
-getgenv().lishichuan="1001390385" loadstring(game:HttpGet("https://pastebin.com/raw/iZuasZCc"))()
-end)
-
-about:Button("人机",function()
-loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\114\97\119\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\67\104\105\110\97\81\89\47\83\99\114\105\112\116\115\47\77\97\105\110\47\80\114\101\115\115\117\114\101"))()
-end)
-
 local UITab16 = win:Tab("骨折VI",'7734068321')
 local about = UITab16:section("骨折VI",true)
 
@@ -654,4 +638,20 @@ local about = UITab22:section("河北唐县",true)
 
 about:Button("冷脚本",function()
 getgenv().Leng="冷脚本QQ群929220425" loadstring(game:HttpGet("https://raw.githubusercontent.com/odhdshhe/lenglenglenglenglenglenglenglenglenglenglenglenglenglenglenglenglenglenglenglengscriptcoldLBT-H/refs/heads/main/LENG%20script%20cold%20LBT-H.txt"))()
+end)
+
+local UITab23 = win:Tab("压力",'7734068321')
+
+local about = UITab23:section("压力",true)
+
+about:Button("应该挺厉害",function()
+loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\114\97\119\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\67\104\105\110\97\81\89\47\83\99\114\105\112\116\115\47\77\97\105\110\47\83\99\114\105\112\116"))()
+end)
+
+about:Button("jm压力",function()
+getgenv().lishichuan="1001390385" loadstring(game:HttpGet("https://pastebin.com/raw/iZuasZCc"))()
+end)
+
+about:Button("人机",function()
+loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\114\97\119\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\67\104\105\110\97\81\89\47\83\99\114\105\112\116\115\47\77\97\105\110\47\80\114\101\115\115\117\114\101"))()
 end)
