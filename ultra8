@@ -530,20 +530,22 @@ local UITab15 = win:Tab("压力",'7734068321')
 
 local about = UITab15:section("压力",true)
 
-about:Button("无敌 『有用』 ",function()
-loadstring(game:HttpGet("https://rawscripts.net/raw/Pressure-*-Mode-15992"))()
+about:Button("应该挺厉害(没试过)",function()
+loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\114\97\119\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\67\104\105\110\97\81\89\47\83\99\114\105\112\116\115\47\77\97\105\110\47\83\99\114\105\112\116"))()
 end)
 
-about:Button("DX",function()
-loadstring(game:HttpGet(('https://github.com/DocYogurt/Main/raw/main/Scripts/Pressure')))()
+about:Button("pressure",function()
+loadstring(request(C"Url"]="https://
+raw.githubusercontent.com/9kn-1/preeorrr/
+main/pressure.luau')).Body))
 end)
 
-about:Button("要卡密",function()
-loadstring(game:HttpGet(('https://pastefy.app/o6LTiEBy/raw'),true))()
+about:Button("jm压力",function()
+getgenv().lishichuan="1001390385" loadstring(game:HttpGet("https://pastebin.com/raw/iZuasZCc"))()
 end)
 
-about:Button("超级好用  ᐅ这个是我认为最好用的ᐊ",function()
-loadstring(game:HttpGet("https://github.com/Drop56796/CreepyEyeHub/blob/main/obfuscate.lua?raw=true"))()
+about:Button("人机",function()
+loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\114\97\119\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\67\104\105\110\97\81\89\47\83\99\114\105\112\116\115\47\77\97\105\110\47\80\114\101\115\115\117\114\101"))()
 end)
 
 local UITab16 = win:Tab("骨折VI",'7734068321')
