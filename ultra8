@@ -624,25 +624,17 @@ about:Button("战争大亨1",function()
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/fba7aeffae0253b8860a9dda57f80318.lua"))()
 end)
 
-local UITab21 = win:Tab("俄亥俄州",'7734068321')
+local UITab21 = win:Tab("河北唐县",'7734068321')
 
-local about = UITab21:section("俄亥俄州",true)
-
-about:Button("俄亥俄州1",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/canxiaoxue666/String/refs/heads/main/OhioScript"))()
-end)
-
-local UITab22 = win:Tab("河北唐县",'7734068321')
-
-local about = UITab22:section("河北唐县",true)
+local about = UITab21:section("河北唐县",true)
 
 about:Button("冷脚本",function()
 getgenv().Leng="冷脚本QQ群929220425" loadstring(game:HttpGet("https://raw.githubusercontent.com/odhdshhe/lenglenglenglenglenglenglenglenglenglenglenglenglenglenglenglenglenglenglenglengscriptcoldLBT-H/refs/heads/main/LENG%20script%20cold%20LBT-H.txt"))()
 end)
 
-local UITab23 = win:Tab("压力",'7734068321')
+local UITab22 = win:Tab("压力",'7734068321')
 
-local about = UITab23:section("压力",true)
+local about = UITab22:section("压力",true)
 
 about:Button("应该挺厉害",function()
 loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\114\97\119\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\67\104\105\110\97\81\89\47\83\99\114\105\112\116\115\47\77\97\105\110\47\83\99\114\105\112\116"))()
