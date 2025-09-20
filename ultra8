@@ -600,6 +600,10 @@ about:Button("xk脚本",function()
     loadstring(game:HttpGet(('https://github.com/devslopo/DVES/raw/main/XK%20Hub')))()
 end)
 
+about:Button("Qaz-X脚本",function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/wsomoQaz/wiki/main/eStarpro"))()
+end)
+
 local UITab18 = win:Tab("一路向西",'7734068321')
 
 local about = UITab18:section("一路向西",true)
