@@ -32,7 +32,7 @@ game:GetService("StarterGui"):SetCore("SendNotification",{ Title = "ultra脚本�
 
 game:GetService("StarterGui"):SetCore("SendNotification",{ Title = "ultra脚本"; Text ="载入成功"; Duration = 2; })
 
-game:GetService("StarterGui"):SetCore("SendNotification",{ Title = "ultra脚本"; Text ="目前不支持fl注入器"; Duration = 2; })
+game:GetService("StarterGui"):SetCore("SendNotification",{ Title = "ultra脚本"; Text ="主群942968245"; Duration = 2; })
 
 local function HeartbeatUpdate()
 	LastIteration = tick()
@@ -54,7 +54,7 @@ local UITab1 = win:Tab("『信息』",'7734068321')
 
 local about = UITab1:section("『作者信息』",false)
 
-about:Label("ultar脚本")
+about:Label("ultra脚本")
 about:Label("作者QQ：3676609128")
 about:Label("QQ群：942968245")
 about:Label("作者：半岛冰红茶")
@@ -71,6 +71,10 @@ about:Label("你现在的服务器名称:"..game:GetService("MarketplaceService"
 local UITab3 = win:Tab("『通用』",'7734068321')
 
 local about = UITab3:section("『通用』",true)
+
+about:Button("无敌少侠飞行",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/396abc/Script/refs/heads/main/MobileFly.lua"))()
+end)
 
 about:Button("玩家加入游戏提示",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/boyscp/scriscriptsc/main/bbn.lua"))()
@@ -365,6 +369,9 @@ end)
 about:Button("FE", function()
     loadstring(game:HttpGet('https://pastefy.ga/a7RTi4un/raw'))()
 end)
+about:Button("FE超多舞蹈",function()
+loadstring(game:HttpGet("https://r aw.githubusercontent.com/Gazer-Ha/Free-emote/refs/heads/main/D elta%20mad%20stuffs"))()
+end)
 
 local UITab4 = win:Tab("力量传奇",'3676609128')
 
@@ -395,6 +402,14 @@ local about = UITab6:section("极速传奇",true)
 about:Button("极速传奇（ajcg提供）",function()
 LnScript = "霖溺-免费版加载器"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ShenJiaoBen/ScriptLoader/refs/heads/main/Linni_FreeLoader.lua"))()
+end)
+
+local UITab7 = win:Tab("终极战场",'3676609128')
+
+local about = UITab7:section("终极战场",true)
+
+about:Button("kanl",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dream77239/kanl/refs/heads/main/Kanl%E8%84%9A%E6%9C%AC"))()
 end)
 
 local UITab7 = win:Tab("死亡球",'3676609128')
@@ -604,6 +619,14 @@ about:Button("Qaz-X脚本",function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/wsomoQaz/wiki/main/eStarpro"))()
 end)
 
+about:Button("脚与本（汉化）脚本",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FnYpMeAk"))()
+end)
+
+about:Button("情云脚本",function()
+loadstring(utf8.char((function() return table.unpack({108,111,97,100,115,116,114,105,110,103,40,103,97,109,101,58,72,116,116,112,71,101,116,40,34,104,116,116,112,115,58,47,47,114,97,119,46,103,105,116,104,117,98,117,115,101,114,99,111,110,116,101,110,116,46,99,111,109,47,67,104,105,110,97,81,89,47,45,47,109,97,105,110,47,37,69,54,37,56,51,37,56,53,37,69,52,37,66,65,37,57,49,34,41,41,40,41})end)()))()
+end)
+
 local UITab18 = win:Tab("一路向西",'7734068321')
 
 local about = UITab18:section("一路向西",true)
@@ -618,6 +641,10 @@ local about = UITab19:section("死铁轨",true)
 
 about:Button("死铁轨1",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/thaibao/refs/heads/main/TbaoHubDeadRails"))()
+end)
+
+about:Button("刷券脚本（芙宁娜提供）",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ArdyBotzz/NatHub/refs/heads/master/NatHub.lua"))()
 end)
 
 local UITab20 = win:Tab("战争大亨",'7734068321')
@@ -650,4 +677,53 @@ end)
 
 about:Button("人机",function()
 loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\114\97\119\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\67\104\105\110\97\81\89\47\83\99\114\105\112\116\115\47\77\97\105\110\47\80\114\101\115\115\117\114\101"))()
+end)
+
+local UITab23 = win:Tab("blox fruits",'7734068321')
+
+local about = UITab23:section("blox fruits",true)
+
+about:Button("汉化脚本",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hdjsjjdgrhj/script-hub/refs/heads/main/Redz"))()
+end)
+
+about:Button("超级脚本",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()
+end)
+
+local UITab24 = win:Tab("偷走脑红",
+'7734068321')
+
+local about = UITab24:section("偷走脑红",true)
+
+about:Button("绿色隐身",function()
+loadstring(game:HttpGet("https://pastefy.app/3FtY6q1p/raw"))()
+end)
+
+about:Button("汉化",function()
+loadstring(game:HttpGet("https://pastefy.app/UisSUelr/raw"))()
+end)
+
+about:Button("彩虹板",function()
+loadstring(game:HttpGet("https://pastefy.app/PkYWvKhM/raw"))()
+end)
+
+about:Button("红辣椒（kenny汉化）",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ke9460394-dot/ugik/refs/heads/main/%E7%BA%A2%E8%BE%A3%E6%A4%92.txt"))()
+end)
+
+local UITab25 = win:Tab("犯罪",'7734068321')
+
+local about = UITab25:section("犯罪",true)
+
+about:Button("犯罪脚本1",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JackHiggly/RobloxThings/main/FemWare0", true))()
+end)
+
+about:Button("femware",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JackHiggly/RobloxThings/main/FemWare0", true))()
+end)
+
+about:Button("犯罪脚本2",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Totocoems/Frostbyte-leaked/main/Frostbyte%20leaked"))()
 end)
