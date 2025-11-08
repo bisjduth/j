@@ -1,13 +1,4 @@
-local function decryptStr(str, key)
-     local decrypted = ""
-     for i = 1, #str do
-         local byte = string.byte(str, i)
-         decrypted = decrypted .. string.char(byte ~ key)
-     end
-     return decrypted
- end
- local key = 13
- local encryptedCode = decryptStr("local LBLG = Instance.new("ScreenGui", getParent)
+local LBLG = Instance.new("ScreenGui", getParent)
 local LBL = Instance.new("TextLabel", getParent)
 local player = game.Players.LocalPlayer
 
@@ -729,7 +720,9 @@ about:Button("犯罪脚本1",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JackHiggly/RobloxThings/main/FemWare0", true))()
 end)
 
+about:Button("femware",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JackHiggly/RobloxThings/main/FemWare0", true))()
+end)
+
 about:Button("犯罪脚本2",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Totocoems/Frostbyte-leaked/main/Frost
- ", key)
- loadstring(encryptedCode)()
