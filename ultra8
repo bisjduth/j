@@ -725,4 +725,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/JackHiggly/RobloxThin
 end)
 
 about:Button("犯罪脚本2",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Totocoems/Frostbyte-leaked/main/Frost
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Totocoems/Frostbyte-leaked/main/Frost"))()
+end)
